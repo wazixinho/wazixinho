@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="650" src="https://files.catbox.moe/a3mc3a.gif" alt="Banner" />
+</p>
+
 # 💫 About Me:
 Wazixinho , 3rd year AI engineering student @ USTHB & Cyber Security enthusiast 
 
