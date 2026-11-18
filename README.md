@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="650" src="https://files.catbox.moe/a3mc3a.gif" alt="Banner" />
+  <img width="650" src="https://github.com/user-attachments/assets/b6ab3805-8437-4c19-945a-55d3a60f7689" alt="Banner" />
 </p>
 
 # 💫 About Me:
